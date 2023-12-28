@@ -1,0 +1,19 @@
+#table2{
+    margin-left: 0px;
+}
+
+#table3{
+    margin-left: 0px;
+}
+
+
+.div3{
+    display: inline-block;
+}
+
+#START{
+    text-align: center;
+   background-color: darkblue;
+   border-radius: 50px;
+   color: white;
+}
